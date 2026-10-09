@@ -1,0 +1,234 @@
+[
+  {
+    "n": 1,
+    "id": "2407.11511",
+    "url": "https://arxiv.org/abs/2407.11511",
+    "title": "Multi-Step Reasoning with Large Language Models, a Survey",
+    "date": "2025-11-02",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2501.09686",
+    "url": "https://arxiv.org/abs/2501.09686",
+    "title": "Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models",
+    "date": "2025-01-09",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2311.05821",
+    "url": "https://huggingface.co/papers/2311.05821",
+    "title": "Let's Reinforce Step by Step",
+    "date": "2023-11-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "https://arxiv.org/pdf/2305.20050",
+    "url": "https://arxiv.org/abs/2305.20050",
+    "title": "Let's Verify Step by Step / Improving mathematical reasoning with process supervision (Lightman et al. / OpenAI)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2203.14465",
+    "url": "https://arxiv.org/abs/2203.14465",
+    "title": "STaR: Bootstrapping Reasoning With Reasoning",
+    "date": "2022-03-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2402.06457",
+    "url": "https://arxiv.org/abs/2402.06457",
+    "title": "V-STaR: Training Verifiers for Self-Taught Reasoners",
+    "date": "2024-08-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2312.06585",
+    "url": "https://arxiv.org/abs/2312.06585",
+    "title": "Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models",
+    "date": "2024-04-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2604.15149",
+    "url": "https://arxiv.org/abs/2604.15149",
+    "title": "LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking",
+    "date": "2026-04-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2609.09776",
+    "url": "https://arxiv.org/abs/2609.09776",
+    "title": "Proof-Carrying Cognition: Closing the Verification Gap with Reality-Settled Reward",
+    "date": "2026-09-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2505.22617",
+    "url": "https://huggingface.co/papers/2505.22617",
+    "title": "The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models",
+    "date": "2025-05-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 11,
+    "id": "2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback",
+    "date": "2022-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "1707.06347",
+    "url": "https://arxiv.org/abs/1707.06347",
+    "title": "Proximal Policy Optimization Algorithms",
+    "date": "2017-07-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2305.18290",
+    "url": "https://arxiv.org/abs/2305.18290",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "date": "2023-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2412.16145",
+    "url": "https://arxiv.org/abs/2412.16145",
+    "title": "Offline Reinforcement Learning for LLM Multi-Step Reasoning",
+    "date": "2024-12-16",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "https://arxiv.org/pdf/2211.14275",
+    "url": "https://arxiv.org/abs/2211.14275",
+    "title": "Solving math word problems with process- and outcome-based feedback (Uesato et al. / arXiv:2211.14275)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2305.10601",
+    "url": "https://huggingface.co/papers/2305.10601",
+    "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+    "date": "2023-05-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2311.04254",
+    "url": "https://huggingface.co/papers/2311.04254",
+    "title": "Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation",
+    "date": "2023-11-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2312.08935",
+    "url": "https://huggingface.co/papers/2312.08935",
+    "title": "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations",
+    "date": "2023-12-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2409.12917",
+    "url": "https://huggingface.co/papers/2409.12917",
+    "title": "Training Language Models to Self-Correct via Reinforcement Learning",
+    "date": "2024-09-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2502.12853",
+    "url": "https://huggingface.co/papers/2502.12853",
+    "title": "S^2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning",
+    "date": "2025-02-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2510.07038",
+    "url": "https://arxiv.org/abs/2510.07038",
+    "title": "Tool-Augmented Policy Optimization: Synergizing Reasoning and Adaptive Tool Use with Reinforcement Learning",
+    "date": "2025-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2508.08221",
+    "url": "https://huggingface.co/papers/2508.08221",
+    "title": "Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning",
+    "date": "2025-08-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2503.14476",
+    "url": "https://huggingface.co/papers/2503.14476",
+    "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+    "date": "2025-03-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2610.12000",
+    "url": "https://github.com/XMUDeepLIT/DHPO",
+    "title": "Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 25,
+    "id": "2510.09285",
+    "url": "https://huggingface.co/papers/2510.09285",
+    "title": "Spotlight on Token Perception for Multimodal Reinforcement Learning",
+    "date": "2025-10-10",
+    "source": "hf-daily"
+  },
+  {
+    "n": 26,
+    "id": "2501.11651",
+    "url": "https://huggingface.co/papers/2501.11651",
+    "title": "Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling",
+    "date": "2025-01-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 27,
+    "id": "2605.31433",
+    "url": "https://huggingface.co/papers/2605.31433",
+    "title": "SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks",
+    "date": "2026-05-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 28,
+    "id": "2605.30888",
+    "url": "https://huggingface.co/papers/2605.30888",
+    "title": "The Flip Side of RLHF: On-Policy Feedback for Reward Model Self-Supervised Improvement",
+    "date": "2026-05-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 29,
+    "id": "2504.13837",
+    "url": "https://huggingface.co/papers/2504.13837",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "2025-04-18",
+    "source": "hf-search"
+  }
+]
