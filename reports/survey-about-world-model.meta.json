@@ -1,25 +1,23 @@
 {
   "topic": "survey about world model",
   "model": "gemini-3.5-flash-lite",
-  "elapsed_s": 218.1,
+  "elapsed_s": 594.3,
   "subagent_calls": 6,
   "tool_calls": {
-    "write_todos": 2,
+    "write_todos": 7,
     "task": 6,
-    "ls": 1,
-    "execute": 7,
-    "read_file": 3,
+    "execute": 10,
+    "read_file": 2,
     "write_file": 1,
-    "edit_file": 1
+    "edit_file": 2
   },
   "tokens": {
-    "input": 238886,
-    "output": 3662
+    "input": 342372,
+    "output": 5638
   },
-  "n_sources": 22,
+  "n_sources": 17,
   "source_families": [
     "arxiv",
-    "hf-daily",
     "hf-search",
     "web"
   ]
